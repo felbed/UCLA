@@ -1,0 +1,234 @@
+[
+    {
+        "País": "Argentina",
+        "Visitantes Internacionales": "6.9",
+        "Ingresos por Turismo": "5.8",
+        "Principal destino turístico": "Buenos Aires",
+        "Duración promedio de la estancia": "17",
+        "Índice de satisfacción del turista": "4.5"
+    },
+    {
+        "País": "Brazil",
+        "Visitantes Internacionales": "6.6",
+        "Ingresos por Turismo": "5.9",
+        "Principal destino turístico": "Rio de Janeiro",
+        "Duración promedio de la estancia": "14",
+        "Índice de satisfacción del turista": "4.4"
+    },
+    {
+        "País": "China",
+        "Visitantes Internacionales": "59.3",
+        "Ingresos por Turismo": "45.8",
+        "Principal destino turístico": "Beijing",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "France",
+        "Visitantes Internacionales": "86.9",
+        "Ingresos por Turismo": "60.7",
+        "Principal destino turístico": "Paris",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.8"
+    },
+    {
+        "País": "Germany",
+        "Visitantes Internacionales": "39.7",
+        "Ingresos por Turismo": "40.2",
+        "Principal destino turístico": "Berlin",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.6"
+    },
+    {
+        "País": "India",
+        "Visitantes Internacionales": "10.6",
+        "Ingresos por Turismo": "27.3",
+        "Principal destino turístico": "Agra",
+        "Duración promedio de la estancia": "7",
+        "Índice de satisfacción del turista": "4.3"
+    },
+    {
+        "País": "Italy",
+        "Visitantes Internacionales": "62.1",
+        "Ingresos por Turismo": "44.2",
+        "Principal destino turístico": "Rome",
+        "Duración promedio de la estancia": "10",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "Japan",
+        "Visitantes Internacionales": "31.2",
+        "Ingresos por Turismo": "41.1",
+        "Principal destino turístico": "Tokyo",
+        "Duración promedio de la estancia": "11",
+        "Índice de satisfacción del turista": "4.8"
+    },
+    {
+        "País": "Mexico",
+        "Visitantes Internacionales": "39.3",
+        "Ingresos por Turismo": "21.3",
+        "Principal destino turístico": "Cancun",
+        "Duración promedio de la estancia": "6",
+        "Índice de satisfacción del turista": "4.4"
+    },
+    {
+        "País": "Russia",
+        "Visitantes Internacionales": "24.6",
+        "Ingresos por Turismo": "11.2",
+        "Principal destino turístico": "Moscow",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.6"
+    },
+    {
+        "País": "South Africa",
+        "Visitantes Internacionales": "10.5",
+        "Ingresos por Turismo": "8.2",
+        "Principal destino turístico": "Cape Town",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.5"
+    },
+    {
+        "País": "Spain",
+        "Visitantes Internacionales": "82.8",
+        "Ingresos por Turismo": "68.1",
+        "Principal destino turístico": "Barcelona",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.9"
+    },
+    {
+        "País": "Thailand",
+        "Visitantes Internacionales": "38.3",
+        "Ingresos por Turismo": "57.5",
+        "Principal destino turístico": "Bangkok",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "Turkey",
+        "Visitantes Internacionales": "45.7",
+        "Ingresos por Turismo": "34.9",
+        "Principal destino turístico": "Istanbul",
+        "Duración promedio de la estancia": "10",
+        "Índice de satisfacción del turista": "4.6"
+    },
+    {
+        "País": "United Kingdom",
+        "Visitantes Internacionales": "37.7",
+        "Ingresos por Turismo": "51.2",
+        "Principal destino turístico": "London",
+        "Duración promedio de la estancia": "7",
+        "Índice de satisfacción del turista": "4.8"
+    },
+    {
+        "País": "United States",
+        "Visitantes Internacionales": "79.6",
+        "Ingresos por Turismo": "210.7",
+        "Principal destino turístico": "New York",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.9"
+    },
+    {
+        "País": "Australia",
+        "Visitantes Internacionales": "9.2",
+        "Ingresos por Turismo": "41.3",
+        "Principal destino turístico": "Sydney",
+        "Duración promedio de la estancia": "10",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "Canada",
+        "Visitantes Internacionales": "22.1",
+        "Ingresos por Turismo": "18.8",
+        "Principal destino turístico": "Toronto",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.6"
+    },
+    {
+        "País": "Egypt",
+        "Visitantes Internacionales": "11.3",
+        "Ingresos por Turismo": "12.6",
+        "Principal destino turístico": "Cairo",
+        "Duración promedio de la estancia": "7",
+        "Índice de satisfacción del turista": "4.4"
+    },
+    {
+        "País": "Greece",
+        "Visitantes Internacionales": "30.1",
+        "Ingresos por Turismo": "18.5",
+        "Principal destino turístico": "Athens",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.5"
+    },
+    {
+        "País": "Indonesia",
+        "Visitantes Internacionales": "14.0",
+        "Ingresos por Turismo": "20.3",
+        "Principal destino turístico": "Bali",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "Morocco",
+        "Visitantes Internacionales": "12.3",
+        "Ingresos por Turismo": "7.3",
+        "Principal destino turístico": "Marrakech",
+        "Duración promedio de la estancia": "7",
+        "Índice de satisfacción del turista": "4.3"
+    },
+    {
+        "País": "Netherlands",
+        "Visitantes Internacionales": "19.1",
+        "Ingresos por Turismo": "32.9",
+        "Principal destino turístico": "Amsterdam",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "New Zealand",
+        "Visitantes Internacionales": "3.8",
+        "Ingresos por Turismo": "11.0",
+        "Principal destino turístico": "Auckland",
+        "Duración promedio de la estancia": "12",
+        "Índice de satisfacción del turista": "4.8"
+    },
+    {
+        "País": "Portugal",
+        "Visitantes Internacionales": "22.8",
+        "Ingresos por Turismo": "18.8",
+        "Principal destino turístico": "Lisbon",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.6"
+    },
+    {
+        "País": "Saudi Arabia",
+        "Visitantes Internacionales": "17.0",
+        "Ingresos por Turismo": "12.9",
+        "Principal destino turístico": "Riyadh",
+        "Duración promedio de la estancia": "7",
+        "Índice de satisfacción del turista": "4.4"
+    },
+    {
+        "País": "South Korea",
+        "Visitantes Internacionales": "17.5",
+        "Ingresos por Turismo": "19.4",
+        "Principal destino turístico": "Seoul",
+        "Duración promedio de la estancia": "10",
+        "Índice de satisfacción del turista": "4.7"
+    },
+    {
+        "País": "Sweden",
+        "Visitantes Internacionales": "9.9",
+        "Ingresos por Turismo": "13.2",
+        "Principal destino turístico": "Stockholm",
+        "Duración promedio de la estancia": "8",
+        "Índice de satisfacción del turista": "4.5"
+    },
+    {
+        "País": "Switzerland",
+        "Visitantes Internacionales": "10.9",
+        "Ingresos por Turismo": "20.2",
+        "Principal destino turístico": "Zurich",
+        "Duración promedio de la estancia": "9",
+        "Índice de satisfacción del turista": "4.8"
+    }
+]
