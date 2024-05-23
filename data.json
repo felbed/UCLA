@@ -1,254 +1,301 @@
 [
   {
-    "País": "Argentina",
-    "Visitantes internacionales": 6.5,
-    "Ingresos por turismo": 5700,
-    "Principal destino turístico": "Buenos Aires",
-    "Gasto promedio por turista": 900,
-    "Duración promedio de la estancia": "10",
-    "Índice de satisfacción del turista": 8.5
-  },
-  {
-    "País": "Australia",
-    "Visitantes internacionales": 9.2,
-    "Ingresos por turismo": 43350,
-    "Principal destino turístico": "Sídney",
-    "Gasto promedio por turista": 4000,
-    "Duración promedio de la estancia": "14",
-    "Índice de satisfacción del turista": 9.2
-  },
-  {
-    "País": "Brasil",
-    "Visitantes internacionales": 6.6,
-    "Ingresos por turismo": 5200,
-    "Principal destino turístico": "Río de Janeiro",
-    "Gasto promedio por turista": 700,
-    "Duración promedio de la estancia": "8",
-    "Índice de satisfacción del turista": 7.8
-  },
-  {
-    "País": "Canadá",
-    "Visitantes internacionales": 22.1,
-    "Ingresos por turismo": 16600,
-    "Principal destino turístico": "Toronto",
-    "Gasto promedio por turista": 1700,
-    "Duración promedio de la estancia": "12",
-    "Índice de satisfacción del turista": 8.9
-  },
-  {
-    "País": "China",
-    "Visitantes internacionales": 62.9,
-    "Ingresos por turismo": 61870,
-    "Principal destino turístico": "Pekín",
-    "Gasto promedio por turista": 700,
-    "Duración promedio de la estancia": "9",
-    "Índice de satisfacción del turista": 8.1
-  },
-  {
-    "País": "Francia",
-    "Visitantes internacionales": 86.9,
-    "Ingresos por turismo": 60340,
-    "Principal destino turístico": "París",
-    "Gasto promedio por turista": 1500,
-    "Duración promedio de la estancia": "9",
-    "Índice de satisfacción del turista": 8.6
-  },
-  {
-    "País": "Alemania",
-    "Visitantes internacionales": 37.5,
-    "Ingresos por turismo": 39970,
-    "Principal destino turístico": "Berlín",
-    "Gasto promedio por turista": 1300,
-    "Duración promedio de la estancia": "8",
-    "Índice de satisfacción del turista": 8.2
-  },
-  {
-    "País": "India",
-    "Visitantes internacionales": 10.6,
-    "Ingresos por turismo": 27700,
-    "Principal destino turístico": "Delhi",
-    "Gasto promedio por turista": 1200,
-    "Duración promedio de la estancia": "21",
+    "País": "Estados Unidos",
+    "Visitantes internacionales": 79.3,
+    "Ingresos por turismo (millones de USD)": 214239,
+    "Principal destino turístico": "New York City",
+    "Gasto promedio por turista (USD)": 2093,
+    "Duración promedio de la estancia (días)": 18,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Canadá", "Reino Unido", "México", "Otros"],
+      "Porcentajes": [0.15, 0.11, 0.09, 0.65]
+    },
     "Índice de satisfacción del turista": 8.7
-  },
-  {
-    "País": "Indonesia",
-    "Visitantes internacionales": 14,
-    "Ingresos por turismo": 20040,
-    "Principal destino turístico": "Bali",
-    "Gasto promedio por turista": 1200,
-    "Duración promedio de la estancia": "7",
-    "Índice de satisfacción del turista": 8.3
-  },
-  {
-    "País": "Italia",
-    "Visitantes internacionales": 58.3,
-    "Ingresos por turismo": 44170,
-    "Principal destino turístico": "Roma",
-    "Gasto promedio por turista": 2100,
-    "Duración promedio de la estancia": "10",
-    "Índice de satisfacción del turista": 8.9
-  },
-  {
-    "País": "Japón",
-    "Visitantes internacionales": 31.2,
-    "Ingresos por turismo": 38950,
-    "Principal destino turístico": "Tokio",
-    "Gasto promedio por turista": 2400,
-    "Duración promedio de la estancia": "11",
-    "Índice de satisfacción del turista": 8.8
   },
   {
     "País": "México",
     "Visitantes internacionales": 39.3,
-    "Ingresos por turismo": 23500,
+    "Ingresos por turismo (millones de USD)": 24563,
     "Principal destino turístico": "Cancún",
-    "Gasto promedio por turista": 800,
-    "Duración promedio de la estancia": "9",
-    "Índice de satisfacción del turista": 8
-  },
-  {
-    "País": "Rusia",
-    "Visitantes internacionales": 24.6,
-    "Ingresos por turismo": 11590,
-    "Principal destino turístico": "Moscú",
-    "Gasto promedio por turista": 900,
-    "Duración promedio de la estancia": "12",
+    "Gasto promedio por turista (USD)": 940,
+    "Duración promedio de la estancia (días)": 6,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.65, 0.06, 0.04, 0.25]
+    },
     "Índice de satisfacción del turista": 8.4
   },
   {
-    "País": "Arabia Saudita",
-    "Visitantes internacionales": 17,
-    "Ingresos por turismo": 12230,
-    "Principal destino turístico": "La Meca",
-    "Gasto promedio por turista": 2200,
-    "Duración promedio de la estancia": "9",
-    "Índice de satisfacción del turista": 8.7
-  },
-  {
-    "País": "Corea del Sur",
-    "Visitantes internacionales": 15.3,
-    "Ingresos por turismo": 19520,
-    "Principal destino turístico": "Seúl",
-    "Gasto promedio por turista": 1900,
-    "Duración promedio de la estancia": "7",
+    "País": "Canadá",
+    "Visitantes internacionales": 22.1,
+    "Ingresos por turismo (millones de USD)": 21228,
+    "Principal destino turístico": "Toronto",
+    "Gasto promedio por turista (USD)": 1678,
+    "Duración promedio de la estancia (días)": 9,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "China", "Otros"],
+      "Porcentajes": [0.70, 0.04, 0.02, 0.24]
+    },
     "Índice de satisfacción del turista": 8.6
   },
   {
-    "País": "España",
-    "Visitantes internacionales": 82.8,
-    "Ingresos por turismo": 68800,
-    "Principal destino turístico": "Barcelona",
-    "Gasto promedio por turista": 1100,
-    "Duración promedio de la estancia": "8",
+    "País": "Brasil",
+    "Visitantes internacionales": 6.6,
+    "Ingresos por turismo (millones de USD)": 5811,
+    "Principal destino turístico": "Rio de Janeiro",
+    "Gasto promedio por turista (USD)": 1943,
+    "Duración promedio de la estancia (días)": 10,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Argentina", "Estados Unidos", "Chile", "Otros"],
+      "Porcentajes": [0.20, 0.12, 0.04, 0.64]
+    },
     "Índice de satisfacción del turista": 8.3
   },
   {
-    "País": "Tailandia",
-    "Visitantes internacionales": 38.3,
-    "Ingresos por turismo": 63240,
-    "Principal destino turístico": "Bangkok",
-    "Gasto promedio por turista": 1600,
-    "Duración promedio de la estancia": "9",
+    "País": "Argentina",
+    "Visitantes internacionales": 6.9,
+    "Ingresos por turismo (millones de USD)": 5717,
+    "Principal destino turístico": "Buenos Aires",
+    "Gasto promedio por turista (USD)": 1200,
+    "Duración promedio de la estancia (días)": 8,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Brasil", "Estados Unidos", "Chile", "Otros"],
+      "Porcentajes": [0.26, 0.24, 0.06, 0.44]
+    },
     "Índice de satisfacción del turista": 8.5
   },
   {
-    "País": "Reino Unido",
-    "Visitantes internacionales": 37.7,
-    "Ingresos por turismo": 51810,
-    "Principal destino turístico": "Londres",
-    "Gasto promedio por turista": 1300,
-    "Duración promedio de la estancia": "7",
-    "Índice de satisfacción del turista": 8.1
-  },
-  {
-    "País": "Estados Unidos",
-    "Visitantes internacionales": 77,
-    "Ingresos por turismo": 210950,
-    "Principal destino turístico": "Nueva York",
-    "Gasto promedio por turista": 2800,
-    "Duración promedio de la estancia": "17",
-    "Índice de satisfacción del turista": 8.9
-  },
-  {
-    "País": "Sudáfrica",
-    "Visitantes internacionales": 10.5,
-    "Ingresos por turismo": 8710,
-    "Principal destino turístico": "Ciudad del Cabo",
-    "Gasto promedio por turista": 700,
-    "Duración promedio de la estancia": "9",
+    "País": "Colombia",
+    "Visitantes internacionales": 4.5,
+    "Ingresos por turismo (millones de USD)": 6721,
+    "Principal destino turístico": "Cartagena",
+    "Gasto promedio por turista (USD)": 1020,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Venezuela", "Brasil", "Otros"],
+      "Porcentajes": [0.24, 0.16, 0.07, 0.53]
+    },
     "Índice de satisfacción del turista": 8.2
-  },
-  {
-    "País": "Egipto",
-    "Visitantes internacionales": 11.3,
-    "Ingresos por turismo": 14710,
-    "Principal destino turístico": "El Cairo",
-    "Gasto promedio por turista": 900,
-    "Duración promedio de la estancia": "10",
-    "Índice de satisfacción del turista": 7.9
-  },
-  {
-    "País": "Grecia",
-    "Visitantes internacionales": 30.1,
-    "Ingresos por turismo": 18580,
-    "Principal destino turístico": "Atenas",
-    "Gasto promedio por turista": 1100,
-    "Duración promedio de la estancia": "12",
-    "Índice de satisfacción del turista": 8.4
-  },
-  {
-    "País": "Malasia",
-    "Visitantes internacionales": 25.8,
-    "Ingresos por turismo": 22510,
-    "Principal destino turístico": "Kuala Lumpur",
-    "Gasto promedio por turista": 1200,
-    "Duración promedio de la estancia": "8",
-    "Índice de satisfacción del turista": 8.3
   },
   {
     "País": "Perú",
     "Visitantes internacionales": 4.4,
-    "Ingresos por turismo": 5150,
+    "Ingresos por turismo (millones de USD)": 4826,
     "Principal destino turístico": "Cusco",
-    "Gasto promedio por turista": 800,
-    "Duración promedio de la estancia": "10",
+    "Gasto promedio por turista (USD)": 1035,
+    "Duración promedio de la estancia (días)": 9,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Chile", "Brasil", "Otros"],
+      "Porcentajes": [0.15, 0.12, 0.06, 0.67]
+    },
+    "Índice de satisfacción del turista": 8.6
+  },
+  {
+    "País": "Chile",
+    "Visitantes internacionales": 4.1,
+    "Ingresos por turismo (millones de USD)": 4454,
+    "Principal destino turístico": "Santiago",
+    "Gasto promedio por turista (USD)": 1200,
+    "Duración promedio de la estancia (días)": 10,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Argentina", "Estados Unidos", "Brasil", "Otros"],
+      "Porcentajes": [0.25, 0.18, 0.06, 0.51]
+    },
+    "Índice de satisfacción del turista": 8.4
+  },
+  {
+    "País": "Venezuela",
+    "Visitantes internacionales": 1.8,
+    "Ingresos por turismo (millones de USD)": 976,
+    "Principal destino turístico": "Caracas",
+    "Gasto promedio por turista (USD)": 650,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Colombia", "Estados Unidos", "España", "Otros"],
+      "Porcentajes": [0.25, 0.12, 0.07, 0.56]
+    },
+    "Índice de satisfacción del turista": 7.9
+  },
+  {
+    "País": "Ecuador",
+    "Visitantes internacionales": 1.6,
+    "Ingresos por turismo (millones de USD)": 1651,
+    "Principal destino turístico": "Quito",
+    "Gasto promedio por turista (USD)": 980,
+    "Duración promedio de la estancia (días)": 8,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Colombia", "Perú", "Otros"],
+      "Porcentajes": [0.20, 0.15, 0.08, 0.57]
+    },
+    "Índice de satisfacción del turista": 8.0
+  },
+  {
+    "País": "Bolivia",
+    "Visitantes internacionales": 1.1,
+    "Ingresos por turismo (millones de USD)": 883,
+    "Principal destino turístico": "La Paz",
+    "Gasto promedio por turista (USD)": 750,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Argentina", "Chile", "Estados Unidos", "Otros"],
+      "Porcentajes": [0.22, 0.18, 0.12, 0.48]
+    },
+    "Índice de satisfacción del turista": 7.8
+  },
+  {
+    "País": "Paraguay",
+    "Visitantes internacionales": 0.6,
+    "Ingresos por turismo (millones de USD)": 460,
+    "Principal destino turístico": "Asunción",
+    "Gasto promedio por turista (USD)": 700,
+    "Duración promedio de la estancia (días)": 6,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Argentina", "Brasil", "Estados Unidos", "Otros"],
+      "Porcentajes": [0.30, 0.20, 0.10, 0.40]
+    },
+    "Índice de satisfacción del turista": 7.5
+  },
+  {
+    "País": "Uruguay",
+    "Visitantes internacionales": 3.5,
+    "Ingresos por turismo (millones de USD)": 1878,
+    "Principal destino turístico": "Montevideo",
+    "Gasto promedio por turista (USD)": 1100,
+    "Duración promedio de la estancia (días)": 9,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Argentina", "Brasil", "Estados Unidos", "Otros"],
+      "Porcentajes": [0.40, 0.15, 0.10, 0.35]
+    },
     "Índice de satisfacción del turista": 8.1
   },
   {
-    "País": "Portugal",
-    "Visitantes internacionales": 12.8,
-    "Ingresos por turismo": 17460,
-    "Principal destino turístico": "Lisboa",
-    "Gasto promedio por turista": 1300,
-    "Duración promedio de la estancia": "11",
+    "País": "Guatemala",
+    "Visitantes internacionales": 2.0,
+    "Ingresos por turismo (millones de USD)": 1223,
+    "Principal destino turístico": "Antigua Guatemala",
+    "Gasto promedio por turista (USD)": 610,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "México", "El Salvador", "Otros"],
+      "Porcentajes": [0.40, 0.18, 0.10, 0.32]
+    },
+    "Índice de satisfacción del turista": 8.2
+  },
+  {
+    "País": "Costa Rica",
+    "Visitantes internacionales": 3.1,
+    "Ingresos por turismo (millones de USD)": 3991,
+    "Principal destino turístico": "San José",
+    "Gasto promedio por turista (USD)": 1290,
+    "Duración promedio de la estancia (días)": 12,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.40, 0.15, 0.05, 0.40]
+    },
     "Índice de satisfacción del turista": 8.7
   },
   {
-    "País": "Singapur",
-    "Visitantes internacionales": 17.4,
-    "Ingresos por turismo": 20160,
-    "Principal destino turístico": "Singapur",
-    "Gasto promedio por turista": 2700,
-    "Duración promedio de la estancia": "5",
-    "Índice de satisfacción del turista": 9
+    "País": "Honduras",
+    "Visitantes internacionales": 2.1,
+    "Ingresos por turismo (millones de USD)": 761,
+    "Principal destino turístico": "Roatán",
+    "Gasto promedio por turista (USD)": 720,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Alemania", "Otros"],
+      "Porcentajes": [0.50, 0.15, 0.08, 0.27]
+    },
+    "Índice de satisfacción del turista": 8.0
   },
   {
-    "País": "Suiza",
-    "Visitantes internacionales": 10.2,
-    "Ingresos por turismo": 17100,
-    "Principal destino turístico": "Zúrich",
-    "Gasto promedio por turista": 2400,
-    "Duración promedio de la estancia": "7",
-    "Índice de satisfacción del turista": 8.8
-  },
-  {
-    "País": "Turquía",
-    "Visitantes internacionales": 39.5,
-    "Ingresos por turismo": 29900,
-    "Principal destino turístico": "Estambul",
-    "Gasto promedio por turista": 680,
-    "Duración promedio de la estancia": "9",
+    "País": "El Salvador",
+    "Visitantes internacionales": 2.5,
+    "Ingresos por turismo (millones de USD)": 1368,
+    "Principal destino turístico": "San Salvador",
+    "Gasto promedio por turista (USD)": 550,
+    "Duración promedio de la estancia (días)": 6,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Guatemala", "Canadá", "Otros"],
+      "Porcentajes": [0.35, 0.20, 0.10, 0.35]
+    },
     "Índice de satisfacción del turista": 8.3
+  },
+  {
+    "País": "Nicaragua",
+    "Visitantes internacionales": 1.4,
+    "Ingresos por turismo (millones de USD)": 826,
+    "Principal destino turístico": "Granada",
+    "Gasto promedio por turista (USD)": 590,
+    "Duración promedio de la estancia (días)": 8,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Costa Rica", "Canadá", "Otros"],
+      "Porcentajes": [0.45, 0.15, 0.10, 0.30]
+    },
+    "Índice de satisfacción del turista": 8.0
+  },
+  {
+    "País": "Panamá",
+    "Visitantes internacionales": 2.8,
+    "Ingresos por turismo (millones de USD)": 6497,
+    "Principal destino turístico": "Ciudad de Panamá",
+    "Gasto promedio por turista (USD)": 1850,
+    "Duración promedio de la estancia (días)": 10,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Colombia", "Otros"],
+      "Porcentajes": [0.40, 0.12, 0.08, 0.40]
+    },
+    "Índice de satisfacción del turista": 8.6
+  },
+  {
+    "País": "Cuba",
+    "Visitantes internacionales": 4.7,
+    "Ingresos por turismo (millones de USD)": 4701,
+    "Principal destino turístico": "La Habana",
+    "Gasto promedio por turista (USD)": 1000,
+    "Duración promedio de la estancia (días)": 9,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Canadá", "Estados Unidos", "Alemania", "Otros"],
+      "Porcentajes": [0.30, 0.25, 0.10, 0.35]
+    },
+    "Índice de satisfacción del turista": 8.4
+  },
+  {
+    "País": "Jamaica",
+    "Visitantes internacionales": 2.5,
+    "Ingresos por turismo (millones de USD)": 3459,
+    "Principal destino turístico": "Montego Bay",
+    "Gasto promedio por turista (USD)": 1380,
+    "Duración promedio de la estancia (días)": 9,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.70, 0.10, 0.05, 0.15]
+    },
+    "Índice de satisfacción del turista": 8.5
+  },
+  {
+    "País": "República Dominicana",
+    "Visitantes internacionales": 6.5,
+    "Ingresos por turismo (millones de USD)": 7608,
+    "Principal destino turístico": "Punta Cana",
+    "Gasto promedio por turista (USD)": 1170,
+    "Duración promedio de la estancia (días)": 8,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Alemania", "Otros"],
+      "Porcentajes": [0.60, 0.10, 0.05, 0.25]
+    },
+    "Índice de satisfacción del turista": 8.6
+  },
+  {
+    "País": "Haití",
+    "Visitantes internacionales": 0.8,
+    "Ingresos por turismo (millones de USD)": 248,
+    "Principal destino turístico": "Puerto Príncipe",
+    "Gasto promedio por turista (USD)": 300,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Francia", "Otros"],
+      "Porcentajes": [0.35, 0.20, 0.10, 0.35]
+    },
+    "Índice de satisfacción del turista": 7.3
   }
 ]
