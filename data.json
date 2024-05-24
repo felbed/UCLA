@@ -297,5 +297,44 @@
       "Porcentajes": [0.35, 0.20, 0.10, 0.35]
     },
     "Índice de satisfacción del turista": 7.3
+  },
+  {
+    "País": "Belice",
+    "Visitantes internacionales": 0.5,
+    "Ingresos por turismo (millones de USD)": 487,
+    "Principal destino turístico": "Ciudad de Belice",
+    "Gasto promedio por turista (USD)": 975,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.50, 0.20, 0.10, 0.20]
+    },
+    "Índice de satisfacción del turista": 8.1
+  },
+  {
+    "País": "Guyana",
+    "Visitantes internacionales": 0.4,
+    "Ingresos por turismo (millones de USD)": 322,
+    "Principal destino turístico": "Georgetown",
+    "Gasto promedio por turista (USD)": 800,
+    "Duración promedio de la estancia (días)": 6,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.40, 0.20, 0.15, 0.25]
+    },
+    "Índice de satisfacción del turista": 8.0
+  },
+  {
+    "País": "Surinam",
+    "Visitantes internacionales": 0.3,
+    "Ingresos por turismo (millones de USD)": 192,
+    "Principal destino turístico": "Paramaribo",
+    "Gasto promedio por turista (USD)": 600,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Países Bajos", "Estados Unidos", "Brasil", "Otros"],
+      "Porcentajes": [0.30, 0.25, 0.20, 0.25]
+    },
+    "Índice de satisfacción del turista": 7.8
   }
 ]
