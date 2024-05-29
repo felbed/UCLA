@@ -440,5 +440,18 @@
       "Porcentajes": [0.40, 0.30, 0.20, 0.10]
     },
     "Índice de satisfacción del turista": 8.1
+  },
+  {
+    "País": "Guayana Francesa",
+    "Visitantes internacionales": 0.0025,
+    "Ingresos por turismo (millones de USD)": 112,
+    "Principal destino turístico": "Cayena",
+    "Gasto promedio por turista (USD)": 850,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Francia", "Surinam", "Brasil", "Otros"],
+      "Porcentajes": [0.50, 0.20, 0.15, 0.15]
+    },
+    "Índice de satisfacción del turista": 8.3
   }
 ]
