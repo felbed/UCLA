@@ -338,19 +338,6 @@
     "Índice de satisfacción del turista": 7.8
   },
   {
-    "País": "Belice",
-    "Visitantes internacionales": 0.573,
-    "Ingresos por turismo (millones de USD)": 487,
-    "Principal destino turístico": "Ciudad de Belice",
-    "Gasto promedio por turista (USD)": 975,
-    "Duración promedio de la estancia (días)": 7,
-    "Principales nacionalidades de los turistas": {
-      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
-      "Porcentajes": [0.50, 0.20, 0.10, 0.20]
-    },
-    "Índice de satisfacción del turista": 8.1
-  },
-  {
     "País": "Bahamas",
     "Visitantes internacionales": 0.034,
     "Ingresos por turismo (millones de USD)": 393.45,
