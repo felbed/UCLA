@@ -336,5 +336,122 @@
       "Porcentajes": [0.30, 0.25, 0.20, 0.25]
     },
     "Índice de satisfacción del turista": 7.8
+  },
+  {
+    "País": "Belice",
+    "Visitantes internacionales": 0.573,
+    "Ingresos por turismo (millones de USD)": 487,
+    "Principal destino turístico": "Ciudad de Belice",
+    "Gasto promedio por turista (USD)": 975,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.50, 0.20, 0.10, 0.20]
+    },
+    "Índice de satisfacción del turista": 8.1
+  },
+  {
+    "País": "Bahamas",
+    "Visitantes internacionales": 0.034,
+    "Ingresos por turismo (millones de USD)": 393.45,
+    "Principal destino turístico": "Nassau",
+    "Gasto promedio por turista (USD)": 13000,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Canadá", "Reino Unido", "Otros"],
+      "Porcentajes": [0.60, 0.20, 0.10, 0.10]
+    },
+    "Índice de satisfacción del turista": 8.2
+  },
+  {
+    "País": "Barbados",
+    "Visitantes internacionales": 0.021,
+    "Ingresos por turismo (millones de USD)": 288,
+    "Principal destino turístico": "Bridgetown",
+    "Gasto promedio por turista (USD)": 1500,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Reino Unido", "Estados Unidos", "Canadá", "Otros"],
+      "Porcentajes": [0.40, 0.30, 0.20, 0.10]
+    },
+    "Índice de satisfacción del turista": 8.5
+  },
+  {
+    "País": "Santa Lucía",
+    "Visitantes internacionales": 0.013,
+    "Ingresos por turismo (millones de USD)": 178.696,
+    "Principal destino turístico": "Castries",
+    "Gasto promedio por turista (USD)": 1100,
+    "Duración promedio de la estancia (días)": 6,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "Canadá", "Otros"],
+      "Porcentajes": [0.50, 0.25, 0.15, 0.10]
+    },
+    "Índice de satisfacción del turista": 8.0
+  },
+  {
+    "País": "Granada",
+    "Visitantes internacionales": 0.015,
+    "Ingresos por turismo (millones de USD)": 113,
+    "Principal destino turístico": "Saint George's",
+    "Gasto promedio por turista (USD)": 950,
+    "Duración promedio de la estancia (días)": 7,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "Canadá", "Otros"],
+      "Porcentajes": [0.45, 0.25, 0.20, 0.10]
+    },
+    "Índice de satisfacción del turista": 8.3
+  },
+  {
+    "País": "San Vicente y las Granadinas",
+    "Visitantes internacionales": 0.011,
+    "Ingresos por turismo (millones de USD)": 110.696,
+    "Principal destino turístico": "Kingstown",
+    "Gasto promedio por turista (USD)": 850,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "Canadá", "Otros"],
+      "Porcentajes": [0.40, 0.30, 0.15, 0.15]
+    },
+    "Índice de satisfacción del turista": 8.1
+  },
+  {
+    "País": "Antigua y Barbuda",
+    "Visitantes internacionales": 0.003,
+    "Ingresos por turismo (millones de USD)": 99.337,
+    "Principal destino turístico": "St. John's",
+    "Gasto promedio por turista (USD)": 1200,
+    "Duración promedio de la estancia (días)": 6,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "Canadá", "Otros"],
+      "Porcentajes": [0.50, 0.20, 0.15, 0.15]
+    },
+    "Índice de satisfacción del turista": 8.2
+  },
+  {
+    "País": "Dominica",
+    "Visitantes internacionales": 0.002,
+    "Ingresos por turismo (millones de USD)": 72,
+    "Principal destino turístico": "Roseau",
+    "Gasto promedio por turista (USD)": 800,
+    "Duración promedio de la estancia (días)": 5,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "Canadá", "Otros"],
+      "Porcentajes": [0.40, 0.30, 0.20, 0.10]
+    },
+    "Índice de satisfacción del turista": 8.0
+  },
+  {
+    "País": "San Cristóbal y Nieves",
+    "Visitantes internacionales": 0.001,
+    "Ingresos por turismo (millones de USD)": 54,
+    "Principal destino turístico": "Basseterre",
+    "Gasto promedio por turista (USD)": 700,
+    "Duración promedio de la estancia (días)": 4,
+    "Principales nacionalidades de los turistas": {
+      "Paises": ["Estados Unidos", "Reino Unido", "Canadá", "Otros"],
+      "Porcentajes": [0.40, 0.30, 0.20, 0.10]
+    },
+    "Índice de satisfacción del turista": 8.1
   }
 ]
